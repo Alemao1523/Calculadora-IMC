@@ -30,7 +30,7 @@ while True:
         elif 18.6<= media <=24.9:
             print("Parabêns, você esta no peso adequado")
 
-        elif media >=25.0 <=29.9:
+        elif  25.0 >= media <=29.9:
             print("você esta com sobrepeso, melhor se alimentar melhor daqui para frente")
 
         elif media >30.0:
